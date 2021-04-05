@@ -1,0 +1,1 @@
+E um conjunto de Instrucoes para que uma funcao seja executada em Determinado aplicativo
